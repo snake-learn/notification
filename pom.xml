@@ -81,6 +81,13 @@
 		</dependency>
 		<!-- </editor-fold> -->
 
+		<!-- <editor-fold desc="DATABASE CHANGE LOGS"> -->
+		<dependency>
+			<groupId>org.liquibase</groupId>
+			<artifactId>liquibase-core</artifactId>
+		</dependency>
+		<!-- </editor-fold> -->
+
 		<!-- <editor-fold desc="UTILS"> -->
 		<dependency>
 			<groupId>org.apache.commons</groupId>
