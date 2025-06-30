@@ -1,4 +1,4 @@
-package com.snake.notification.securities;
+package com.snake.storage.configs;
 
 import com.snake.common.securities.AppAccessDeniedHandler;
 import com.snake.common.securities.AppAuthenticationEntryPoint;

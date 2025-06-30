@@ -113,6 +113,21 @@
 		</dependency>
 		<!-- </editor-fold> -->
 
+		<!-- <editor-fold desc="JJWT"> -->
+		<dependency>
+			<groupId>io.jsonwebtoken</groupId>
+			<artifactId>jjwt-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>io.jsonwebtoken</groupId>
+			<artifactId>jjwt-impl</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>io.jsonwebtoken</groupId>
+			<artifactId>jjwt-jackson</artifactId>
+		</dependency>
+		<!-- </editor-fold> -->
+
 		<!-- <editor-fold desc="OTHER"> -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

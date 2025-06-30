@@ -1,4 +1,4 @@
-package com.snake.notification;
+package com.snake.storage;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
